@@ -1,4 +1,5 @@
 def main():
+    #This project was created following the steps in Boot.dev's first project outline, although not necessarily identical code
     source = ""
     baseAddress = "/home/esholland/workspace/github.com/esholland85/bookbot/"
     targetDir = "books/Frankenstein"
